@@ -1,0 +1,26 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+
+group='com.github.ylq240911'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        minSdkVersion 17
+        targetSdkVersion 22
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:+'
+    compile files('libs/xUtil3.3.jar')
+}

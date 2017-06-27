@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Git\\yposCommlibs2\\yposCommonLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Git\\yposCommlibs2\\yposCommonLib\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Git\\yposCommlibs\\yposCommonLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Git\\yposCommlibs\\yposCommonLib\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyGitHub\\yposCommlibs\\yposCommlibs\\yposCommonLib\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\MyGitHub\\yposCommlibs\\yposCommlibs\\yposCommonLib\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
